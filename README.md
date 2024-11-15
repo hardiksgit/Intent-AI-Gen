@@ -9,8 +9,8 @@ This lambda function gets triggered on the s3 event, which further reads the upl
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hardiksgit/lambda-file-processor.git
-cd lambda-file-processor
+git clone https://github.com/hardiksgit/Intent-AI-Gen.git
+cd Intent-AI-Gen
 ```
 
 ### 2. Install Dependancies
